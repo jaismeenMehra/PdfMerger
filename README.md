@@ -1,2 +1,2 @@
 # PdfMerger
-Creating a Pdf Merger using JavaScript
+Creating a Pdf Merger using JavaScript and Node.js
